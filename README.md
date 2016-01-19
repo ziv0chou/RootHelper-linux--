@@ -1,4 +1,4 @@
-# RootHelper
+# RootHelper  linux提取汇总脚本
 Roothelper will aid in the process of privilege escalation on a Linux system that has been compromised, by fetching a number of enumeration
 and exploit suggestion scripts. The latest version downloads four scripts. Two enumeration shellscripts and two exploit suggesters, one written in perl and the other one in python.
 
